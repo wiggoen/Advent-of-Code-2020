@@ -1,5 +1,5 @@
 '''
-Advent of Code: Day 1 - Puzzle 1
+Advent of Code: Day 1 - Puzzle 1 & 2
 '''
 
 data = 'Day-01-Puzzle-input.txt'
