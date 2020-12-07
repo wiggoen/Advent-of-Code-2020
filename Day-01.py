@@ -2,7 +2,7 @@
 Advent of Code: Day 1 - Puzzle 1 & 2
 '''
 
-data = 'Day-01-Puzzle-input.txt'
+data = 'Day-01-input.txt'
 
 expense_report = []
 with open(data, 'r') as infile:

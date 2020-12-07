@@ -2,7 +2,7 @@
 Advent of Code: Day 2 - Puzzle 1 & 2
 '''
 
-data = 'Day-02-Puzzle-input.txt'
+data = 'Day-02-input.txt'
 
 passwords = []
 with open(data, 'r') as infile:
